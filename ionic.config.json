@@ -1,0 +1,7 @@
+{
+  "name": "translate-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
